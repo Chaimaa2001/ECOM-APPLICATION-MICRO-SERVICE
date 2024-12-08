@@ -49,7 +49,20 @@ public class BillingServiceApplication {
                 productItem.setPrice(product.getPrice());
                 productItem.setDiscount(Math.random());
                 productItemRepository.save(productItem);
+
+                Bill bill1=new Bill();
+                bill1.setBillDate(new Date());
+                bill1.setCustomerId(customerId);
+                Bill savedBill1 = billRepository.save(bill1);
+                products.forEach(product1 -> {
+                    ProductItem productItem1=new ProductItem();
+                    productItem1.setBill(savedBill1);
+                    productItem1.setProductId(product1.getId());
+                    productItem1.setQuantity(1+new Random().nextInt(10));
+                    productItem1.setPrice(product1.getPrice());
+                    productItem1.setDiscount(Math.random());
+                    productItemRepository.save(productItem1);
             });
-        };
-    }
-}
+        });
+    };
+}}

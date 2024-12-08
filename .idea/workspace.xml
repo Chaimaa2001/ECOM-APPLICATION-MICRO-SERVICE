@@ -5,48 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f5de6a2-b01b-4726-abdb-7e42a1c67b92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config-service1/IMAGES/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service1/IMAGES/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service1/IMAGES/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service1/IMAGES/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service1/IMAGES/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/sid/customerservice/config/ConfigTestRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/sid/customerservice/config/CustomerConfigParams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-12-05T184330.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-12-05T184927.400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-12-05T184935.400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-12-05T184949.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-12-05T184954.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-12-05T191301.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMAGES/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMAGES/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/entities/BillingProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/IMAGES/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/data/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecom-web-app/src/assets/silent-check-sso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/IMAGES/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/security/JwtAuthConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/web/ProductRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/BillingServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/BillingServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/entities/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/entities/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/entities/ProductItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/entities/ProductItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/repository/BillRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/repository/BillRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/services/CustomerRestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/services/CustomerRestClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/billing-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/billing-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/billing-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-repo/customer-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/customer-service.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-repo/inventory-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo/inventory-service.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img_8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/IMAGES/img_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/IMAGES/img_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-service1/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/com/sid/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/sid/customerservice/CustomerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/com/sid/customerservice/entities/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/sid/customerservice/entities/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/IMAGES/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/IMAGES/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/IMAGES/img_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/IMAGES/img_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/IMAGES/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/org/sid/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/org/sid/gateway/GatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,30 +105,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "aspect.path.notification.shown": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "C:/Users/CHAIMAA/Desktop/JEE2/ecom-application/customer-service/IMAGES",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.24843752",
-    "spring.configuration.checksum": "3ce98db3cc49c3d10238c7513123d3bc",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;aspect.path.notification.shown&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CHAIMAA/Desktop/JEE2/ecom-application/ecom-web-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.24843752&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3ce98db3cc49c3d10238c7513123d3bc&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -128,6 +143,9 @@
       <recent name="C:\Users\CHAIMAA\Desktop\JEE2\ecom-application\gateway\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CHAIMAA\Desktop\JEE2\ecom-application\inventory-service" />
+      <recent name="C:\Users\CHAIMAA\Desktop\JEE2\ecom-application\gateway" />
+      <recent name="C:\Users\CHAIMAA\Desktop\JEE2\ecom-application\discovery-service" />
       <recent name="C:\Users\CHAIMAA\Desktop\JEE2\ecom-application\billing-service" />
       <recent name="C:\Users\CHAIMAA\Desktop\JEE2\ecom-application\customer-service" />
     </key>
@@ -141,6 +159,15 @@
   </component>
   <component name="RunManager" selected="Spring Boot.BillingServiceApplication">
     <configuration name="rest-api_16 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_16.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_17 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_17.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_17 | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_17.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_18 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_18.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="BillingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -194,6 +221,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.BillingServiceApplication" />
+        <item itemvalue="HTTP Request.rest-api_18 | #1" />
+        <item itemvalue="HTTP Request.rest-api_17 | #2" />
+        <item itemvalue="HTTP Request.rest-api_17 | #1" />
         <item itemvalue="HTTP Request.rest-api_16 | #1" />
       </list>
     </recent_temporary>
@@ -224,7 +254,24 @@
       <workItem from="1731428223068" duration="264000" />
       <workItem from="1731428501427" duration="2505000" />
       <workItem from="1731618194814" duration="42000" />
-      <workItem from="1731939430658" duration="7808000" />
+      <workItem from="1731939430658" duration="8078000" />
+      <workItem from="1731952790321" duration="26000" />
+      <workItem from="1732030839942" duration="881000" />
+      <workItem from="1732032067385" duration="6568000" />
+      <workItem from="1732108149551" duration="5373000" />
+      <workItem from="1733163296832" duration="1870000" />
+      <workItem from="1733213977118" duration="24000" />
+      <workItem from="1733242789923" duration="186000" />
+      <workItem from="1733244035806" duration="3192000" />
+      <workItem from="1733253223794" duration="8948000" />
+      <workItem from="1733293227951" duration="2176000" />
+      <workItem from="1733324442498" duration="7053000" />
+      <workItem from="1733345557199" duration="3512000" />
+      <workItem from="1733393004385" duration="4846000" />
+      <workItem from="1733420195946" duration="3621000" />
+      <workItem from="1733509265225" duration="224000" />
+      <workItem from="1733509816310" duration="50000" />
+      <workItem from="1733675028094" duration="1801000" />
     </task>
     <servers />
   </component>

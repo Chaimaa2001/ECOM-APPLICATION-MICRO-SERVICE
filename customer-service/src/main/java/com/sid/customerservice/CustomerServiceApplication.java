@@ -28,9 +28,9 @@ public class CustomerServiceApplication {
             restConfiguration.exposeIdsFor(Customer.class);
             customerRepository.saveAll(
                     List.of(
-                            Customer.builder().name("Hassan").email("Hassan@gmail.com").build(),
-                            Customer.builder().name("Hanane").email("Hanane@gmail.com").build(),
-                            Customer.builder().name("Imane").email("Imane@gmail.com").build()
+                            Customer.builder().name("Hassan").mail("Hassan@gmail.com").build(),
+                            Customer.builder().name("Hanane").mail("Hanane@gmail.com").build(),
+                            Customer.builder().name("Imane").mail("Imane@gmail.com").build()
 
                     )
             );

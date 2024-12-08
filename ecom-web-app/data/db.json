@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Printer",
+      "price": 3200,
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Printer",
+      "price": 3200,
+      "checked": false
+    },
+    {
+      "id": "3",
+      "name": "Printer",
+      "price": 3200,
+      "checked": false
+    },
+    {
+      "id": "2=4",
+      "name": "Printer",
+      "price": 3200,
+      "checked": false
+    },
+    {
+      "id": "19e4",
+      "name": "Smart 67",
+      "price": "45000",
+      "checked": true
+    },
+    {
+      "id": "0912",
+      "name": "Smart 67",
+      "price": "45000",
+      "checked": true
+    }
+  ]
+}

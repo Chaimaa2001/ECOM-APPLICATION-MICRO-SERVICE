@@ -1,0 +1,231 @@
+{
+  "authorities": [
+    {
+      "authority": "SCOPE_profile"
+    },
+    {
+      "authority": "SCOPE_email"
+    }
+  ],
+  "details": {
+    "remoteAddress": "127.0.0.1",
+    "sessionId": "5B0B8DAA330E9DD3A0CD2ED5E9AAE50A"
+  },
+  "authenticated": true,
+  "principal": {
+    "tokenValue": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJUcG11SzhTU2d5Z053bGU0aWNJSjBMUU9GLVRhYlZrQWtadjVJdl9JU0JBIn0.eyJleHAiOjE3MzM0MjI1OTAsImlhdCI6MTczMzQyMjI5MCwianRpIjoiZjMyMTEwMzItNjcwMC00MTE0LWFhOTgtOThkZDc5ZjA5NGIzIiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9lLWNvbS1yZWFsbSIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiI0ZjIyZTVkZC01Y2UzLTQzNjgtYmY4NC00YWNjNWZmZWEyMjAiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJlY29tLWFwcC1hbmd1bGFyIiwic2lkIjoiY2Q4Zjg0YzgtMDQwOS00ZTRhLTg4YjMtMTAzNTlhMDQ1YjkzIiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwOi8vbG9jYWxob3N0OjQyMDAiXSwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iLCJVU0VSIiwiZGVmYXVsdC1yb2xlcy1lLWNvbS1yZWFsbSJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoicHJvZmlsZSBlbWFpbCIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwibmFtZSI6ImNoYWltYWEga2FpbmUiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ1c2VyMSIsImdpdmVuX25hbWUiOiJjaGFpbWFhIiwiZmFtaWx5X25hbWUiOiJrYWluZSIsImVtYWlsIjoidXNlcjFAZ21haWwuY29tIn0.2TNHoudzPjtiZyYvDV5NYVVgH1AbE1f_k-A51HU6FygJQd_H1bspdcDftJTR9GZjno_jjvPllRIFO8joQKWhRbOflHmR_JgREBuyJiotnJoeMkH5OCx_JmRAeC8o2RAkFqaqezdNPdZDERUtOPzZRle49uQ3uj-Fv-vRmEgB3Q1aWrzXBNciLtgzMuwpgv7NmbDiyC6TIgXHUFWk1ttq7QrNvM59lA7ofF88ShyIZatlIC_PabVONCOX9QRwDlCQxGcjjV_08icVcK2G2yiERr2xOvKpdnckWpYF5WQwndPfkVeIu0eDZmMMIMSPRopJvTuF9rqt4cq7kePuVI8fKA",
+    "issuedAt": "2024-12-05T18:11:30Z",
+    "expiresAt": "2024-12-05T18:16:30Z",
+    "headers": {
+      "kid": "TpmuK8SSgygNwle4icIJ0LQOF-TabVkAkZv5Iv_ISBA",
+      "typ": "JWT",
+      "alg": "RS256"
+    },
+    "claims": {
+      "sub": "4f22e5dd-5ce3-4368-bf84-4acc5ffea220",
+      "resource_access": {
+        "account": {
+          "roles": [
+            "manage-account",
+            "manage-account-links",
+            "view-profile"
+          ]
+        }
+      },
+      "email_verified": false,
+      "allowed-origins": [
+        "http://localhost:4200"
+      ],
+      "iss": "http://localhost:8080/realms/e-com-realm",
+      "typ": "Bearer",
+      "preferred_username": "user1",
+      "given_name": "chaimaa",
+      "sid": "cd8f84c8-0409-4e4a-88b3-10359a045b93",
+      "aud": [
+        "account"
+      ],
+      "acr": "1",
+      "realm_access": {
+        "roles": [
+          "offline_access",
+          "uma_authorization",
+          "USER",
+          "default-roles-e-com-realm"
+        ]
+      },
+      "azp": "ecom-app-angular",
+      "scope": "profile email",
+      "name": "chaimaa kaine",
+      "exp": "2024-12-05T18:16:30Z",
+      "iat": "2024-12-05T18:11:30Z",
+      "family_name": "kaine",
+      "jti": "f3211032-6700-4114-aa98-98dd79f094b3",
+      "email": "user1@gmail.com"
+    },
+    "id": "f3211032-6700-4114-aa98-98dd79f094b3",
+    "subject": "4f22e5dd-5ce3-4368-bf84-4acc5ffea220",
+    "audience": [
+      "account"
+    ],
+    "notBefore": null,
+    "issuer": "http://localhost:8080/realms/e-com-realm"
+  },
+  "credentials": {
+    "tokenValue": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJUcG11SzhTU2d5Z053bGU0aWNJSjBMUU9GLVRhYlZrQWtadjVJdl9JU0JBIn0.eyJleHAiOjE3MzM0MjI1OTAsImlhdCI6MTczMzQyMjI5MCwianRpIjoiZjMyMTEwMzItNjcwMC00MTE0LWFhOTgtOThkZDc5ZjA5NGIzIiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9lLWNvbS1yZWFsbSIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiI0ZjIyZTVkZC01Y2UzLTQzNjgtYmY4NC00YWNjNWZmZWEyMjAiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJlY29tLWFwcC1hbmd1bGFyIiwic2lkIjoiY2Q4Zjg0YzgtMDQwOS00ZTRhLTg4YjMtMTAzNTlhMDQ1YjkzIiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwOi8vbG9jYWxob3N0OjQyMDAiXSwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iLCJVU0VSIiwiZGVmYXVsdC1yb2xlcy1lLWNvbS1yZWFsbSJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoicHJvZmlsZSBlbWFpbCIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwibmFtZSI6ImNoYWltYWEga2FpbmUiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ1c2VyMSIsImdpdmVuX25hbWUiOiJjaGFpbWFhIiwiZmFtaWx5X25hbWUiOiJrYWluZSIsImVtYWlsIjoidXNlcjFAZ21haWwuY29tIn0.2TNHoudzPjtiZyYvDV5NYVVgH1AbE1f_k-A51HU6FygJQd_H1bspdcDftJTR9GZjno_jjvPllRIFO8joQKWhRbOflHmR_JgREBuyJiotnJoeMkH5OCx_JmRAeC8o2RAkFqaqezdNPdZDERUtOPzZRle49uQ3uj-Fv-vRmEgB3Q1aWrzXBNciLtgzMuwpgv7NmbDiyC6TIgXHUFWk1ttq7QrNvM59lA7ofF88ShyIZatlIC_PabVONCOX9QRwDlCQxGcjjV_08icVcK2G2yiERr2xOvKpdnckWpYF5WQwndPfkVeIu0eDZmMMIMSPRopJvTuF9rqt4cq7kePuVI8fKA",
+    "issuedAt": "2024-12-05T18:11:30Z",
+    "expiresAt": "2024-12-05T18:16:30Z",
+    "headers": {
+      "kid": "TpmuK8SSgygNwle4icIJ0LQOF-TabVkAkZv5Iv_ISBA",
+      "typ": "JWT",
+      "alg": "RS256"
+    },
+    "claims": {
+      "sub": "4f22e5dd-5ce3-4368-bf84-4acc5ffea220",
+      "resource_access": {
+        "account": {
+          "roles": [
+            "manage-account",
+            "manage-account-links",
+            "view-profile"
+          ]
+        }
+      },
+      "email_verified": false,
+      "allowed-origins": [
+        "http://localhost:4200"
+      ],
+      "iss": "http://localhost:8080/realms/e-com-realm",
+      "typ": "Bearer",
+      "preferred_username": "user1",
+      "given_name": "chaimaa",
+      "sid": "cd8f84c8-0409-4e4a-88b3-10359a045b93",
+      "aud": [
+        "account"
+      ],
+      "acr": "1",
+      "realm_access": {
+        "roles": [
+          "offline_access",
+          "uma_authorization",
+          "USER",
+          "default-roles-e-com-realm"
+        ]
+      },
+      "azp": "ecom-app-angular",
+      "scope": "profile email",
+      "name": "chaimaa kaine",
+      "exp": "2024-12-05T18:16:30Z",
+      "iat": "2024-12-05T18:11:30Z",
+      "family_name": "kaine",
+      "jti": "f3211032-6700-4114-aa98-98dd79f094b3",
+      "email": "user1@gmail.com"
+    },
+    "id": "f3211032-6700-4114-aa98-98dd79f094b3",
+    "subject": "4f22e5dd-5ce3-4368-bf84-4acc5ffea220",
+    "audience": [
+      "account"
+    ],
+    "notBefore": null,
+    "issuer": "http://localhost:8080/realms/e-com-realm"
+  },
+  "token": {
+    "tokenValue": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJUcG11SzhTU2d5Z053bGU0aWNJSjBMUU9GLVRhYlZrQWtadjVJdl9JU0JBIn0.eyJleHAiOjE3MzM0MjI1OTAsImlhdCI6MTczMzQyMjI5MCwianRpIjoiZjMyMTEwMzItNjcwMC00MTE0LWFhOTgtOThkZDc5ZjA5NGIzIiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9lLWNvbS1yZWFsbSIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiI0ZjIyZTVkZC01Y2UzLTQzNjgtYmY4NC00YWNjNWZmZWEyMjAiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJlY29tLWFwcC1hbmd1bGFyIiwic2lkIjoiY2Q4Zjg0YzgtMDQwOS00ZTRhLTg4YjMtMTAzNTlhMDQ1YjkzIiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwOi8vbG9jYWxob3N0OjQyMDAiXSwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iLCJVU0VSIiwiZGVmYXVsdC1yb2xlcy1lLWNvbS1yZWFsbSJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoicHJvZmlsZSBlbWFpbCIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwibmFtZSI6ImNoYWltYWEga2FpbmUiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ1c2VyMSIsImdpdmVuX25hbWUiOiJjaGFpbWFhIiwiZmFtaWx5X25hbWUiOiJrYWluZSIsImVtYWlsIjoidXNlcjFAZ21haWwuY29tIn0.2TNHoudzPjtiZyYvDV5NYVVgH1AbE1f_k-A51HU6FygJQd_H1bspdcDftJTR9GZjno_jjvPllRIFO8joQKWhRbOflHmR_JgREBuyJiotnJoeMkH5OCx_JmRAeC8o2RAkFqaqezdNPdZDERUtOPzZRle49uQ3uj-Fv-vRmEgB3Q1aWrzXBNciLtgzMuwpgv7NmbDiyC6TIgXHUFWk1ttq7QrNvM59lA7ofF88ShyIZatlIC_PabVONCOX9QRwDlCQxGcjjV_08icVcK2G2yiERr2xOvKpdnckWpYF5WQwndPfkVeIu0eDZmMMIMSPRopJvTuF9rqt4cq7kePuVI8fKA",
+    "issuedAt": "2024-12-05T18:11:30Z",
+    "expiresAt": "2024-12-05T18:16:30Z",
+    "headers": {
+      "kid": "TpmuK8SSgygNwle4icIJ0LQOF-TabVkAkZv5Iv_ISBA",
+      "typ": "JWT",
+      "alg": "RS256"
+    },
+    "claims": {
+      "sub": "4f22e5dd-5ce3-4368-bf84-4acc5ffea220",
+      "resource_access": {
+        "account": {
+          "roles": [
+            "manage-account",
+            "manage-account-links",
+            "view-profile"
+          ]
+        }
+      },
+      "email_verified": false,
+      "allowed-origins": [
+        "http://localhost:4200"
+      ],
+      "iss": "http://localhost:8080/realms/e-com-realm",
+      "typ": "Bearer",
+      "preferred_username": "user1",
+      "given_name": "chaimaa",
+      "sid": "cd8f84c8-0409-4e4a-88b3-10359a045b93",
+      "aud": [
+        "account"
+      ],
+      "acr": "1",
+      "realm_access": {
+        "roles": [
+          "offline_access",
+          "uma_authorization",
+          "USER",
+          "default-roles-e-com-realm"
+        ]
+      },
+      "azp": "ecom-app-angular",
+      "scope": "profile email",
+      "name": "chaimaa kaine",
+      "exp": "2024-12-05T18:16:30Z",
+      "iat": "2024-12-05T18:11:30Z",
+      "family_name": "kaine",
+      "jti": "f3211032-6700-4114-aa98-98dd79f094b3",
+      "email": "user1@gmail.com"
+    },
+    "id": "f3211032-6700-4114-aa98-98dd79f094b3",
+    "subject": "4f22e5dd-5ce3-4368-bf84-4acc5ffea220",
+    "audience": [
+      "account"
+    ],
+    "notBefore": null,
+    "issuer": "http://localhost:8080/realms/e-com-realm"
+  },
+  "name": "4f22e5dd-5ce3-4368-bf84-4acc5ffea220",
+  "tokenAttributes": {
+    "sub": "4f22e5dd-5ce3-4368-bf84-4acc5ffea220",
+    "resource_access": {
+      "account": {
+        "roles": [
+          "manage-account",
+          "manage-account-links",
+          "view-profile"
+        ]
+      }
+    },
+    "email_verified": false,
+    "allowed-origins": [
+      "http://localhost:4200"
+    ],
+    "iss": "http://localhost:8080/realms/e-com-realm",
+    "typ": "Bearer",
+    "preferred_username": "user1",
+    "given_name": "chaimaa",
+    "sid": "cd8f84c8-0409-4e4a-88b3-10359a045b93",
+    "aud": [
+      "account"
+    ],
+    "acr": "1",
+    "realm_access": {
+      "roles": [
+        "offline_access",
+        "uma_authorization",
+        "USER",
+        "default-roles-e-com-realm"
+      ]
+    },
+    "azp": "ecom-app-angular",
+    "scope": "profile email",
+    "name": "chaimaa kaine",
+    "exp": "2024-12-05T18:16:30Z",
+    "iat": "2024-12-05T18:11:30Z",
+    "family_name": "kaine",
+    "jti": "f3211032-6700-4114-aa98-98dd79f094b3",
+    "email": "user1@gmail.com"
+  }
+}
